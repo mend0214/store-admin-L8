@@ -225,13 +225,13 @@ button:hover {
   padding: 10px 10px;
   border-radius: 5px;
   border: none;
-  background-color: #007acc;
+  background-color: #FFCE00;
   color: #fff;
   cursor: pointer;
 }
 
 .ai-button:hover {
-  background-color: #005f8b;
+  background-color: #a18100;
 }
 
 textarea {
